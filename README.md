@@ -1,0 +1,1 @@
+This is the first project I am attempting in The Odin Project's Foundational Course. By the end of this project, I will have learnt how to write html files with elements including headings, paragraphs, lists and images, as well as connecting pages using relative links.
