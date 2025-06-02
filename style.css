@@ -1,0 +1,37 @@
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: xxx-large;
+    color: #666;
+    margin-bottom: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button {
+    padding: 20px 32px;
+    margin: 12px auto;
+    font-size: large;
+    background-color: plum;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+.button:hover {
+    background-color: palevioletred;
+}
+
+.button:active {
+    box-shadow: 0 5px #666;
+    background-color: palevioletred;
+    transform: translateY(4px);
+}
